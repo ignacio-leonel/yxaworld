@@ -1,28 +1,43 @@
-Pasos realizados, ETL (ingreso, transformación y carga de datos de xls a Power BI) 🔄💼:
-Realicé la Extracción, Transformación y Carga de datos desde archivos xls a Power BI. Este proceso asegura que la información esté lista para su análisis de manera eficiente. 💻📊
+# 🌐 Dashboard de Ventas Globales - XYZ World (Power BI)
 
-Creación de Nuevas Medidas:
-Creé nuevas medidas para calcular datos como margen y utilidades pedidos por el cliente, evitando la creación innecesaria de columnas en Query Editor. Esto simplifica el análisis y mejora la eficiencia del modelo de datos. 🔢📏💡
+Este proyecto consiste en un informe analítico desarrollado en Power BI a partir de archivos `.xls`. Se diseñó para brindar a XYZ World e-commerce una visión clara y accionable de su rendimiento comercial global.
 
-Cómo Responde Mi Informe:
-En respuesta a esta necesidad, he desarrollado un informe analítico exhaustivo utilizando Power BI. Este informe no solo proporciona una visión global de las operaciones comerciales, sino que también aborda de manera específica los desafíos identificados. 📈🔍🌐
+## 🔄 Proceso ETL (Extracción, Transformación y Carga)
 
-Resumen General:
-Un vistazo rápido a los indicadores clave, como utilidad y margen, brinda una visión instantánea del rendimiento global de XYZ World e-commerce.
+- Se importaron los datos desde archivos Excel.
+- Se transformaron para optimizar su estructura y limpieza.
+- Finalmente, se cargaron al modelo de Power BI para su análisis.
+  
+Este proceso asegura una base de datos sólida, sin columnas innecesarias y con medidas creadas directamente en Power BI para mejorar la eficiencia y claridad del informe.
 
-Análisis Temporal:
-Tendencias trimestrales y anuales destacan cómo han evolucionado las ventas, permitiendo identificar patrones y ajustar estrategias en consecuencia. 
-Desglose de Categorías y Productos:
-Un enfoque detallado en categorías y productos específicos proporciona información valiosa para la toma de decisiones sobre el portafolio de productos. 
+## ✨ Principales Funcionalidades del Informe
 
-Mapas y Geolocalización:
-La distribución geográfica de utilidades por continente se visualiza de manera clara, facilitando la identificación de mercados clave. 
+### 📊 Resumen General
+Una vista rápida de los indicadores clave como utilidad y margen de ganancia, para entender el rendimiento global de la empresa en segundos.
 
-Análisis Detallado por Filtros:
-La capacidad de filtrar datos por año, categoría o producto permite un análisis personalizado, adaptado a las necesidades específicas de XYZ. 
+### 📈 Análisis Temporal
+Tendencias de ventas trimestrales y anuales que permiten detectar patrones y tomar decisiones estratégicas basadas en datos históricos.
 
-Comparación Año a Año:
-Herramientas para comparar y evaluar el rendimiento de ventas año tras año, facilitando la identificación de tendencias y oportunidades. 
+### 🛒 Desglose por Categoría y Producto
+Análisis detallado de categorías y productos con mejor (y peor) desempeño, ideal para ajustar el portafolio de productos.
 
-Este informe ha sido diseñado pensando en las necesidades de XYZ World e-commerce, proporcionando insights accionables para optimizar sus estrategias de ventas globales. 
-Invito a explorar este proyecto en mi portafolio para obtener una visión más detallada y descubrir cómo estas soluciones analíticas pueden ser clave para el éxito de su empresa. 🌟📊💼
+### 🗺️ Mapas y Geolocalización
+Visualización de utilidades por continente, para detectar oportunidades de crecimiento y mercados con buen desempeño.
+
+### 🎯 Análisis Dinámico con Filtros
+Filtros interactivos por año, categoría o producto que permiten una exploración personalizada de los datos.
+
+### 🔁 Comparativa Año a Año
+Comparación del rendimiento de ventas entre diferentes años, útil para medir el progreso y detectar oportunidades de mejora.
+
+---
+
+## 🧠 Conclusión
+
+Este dashboard fue creado pensando en los desafíos y necesidades reales de XYZ World e-commerce. Proporciona insights prácticos para mejorar la toma de decisiones comerciales en un entorno competitivo global.
+
+> Te invito a explorar el informe completo en Power BI y ver cómo la analítica puede marcar la diferencia en la estrategia de ventas.
+
+---
+
+**📌 Nota**: Este
